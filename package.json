@@ -1,0 +1,23 @@
+{
+  "name": "umdevux",
+  "version": "1.1.2",
+  "description": "Fernando Moreira, the person.",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "cat info.json"
+  },
+  "keywords": [
+    "person",
+    "contact"
+  ],
+  "author": "Fernando Moreira",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nandomoreirame/umdevux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nandomoreirame/umdevux/issues"
+  },
+  "homepage": "https://github.com/nandomoreirame/umdevux#readme"
+}

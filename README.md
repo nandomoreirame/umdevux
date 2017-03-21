@@ -2,6 +2,8 @@
 
 > Fernando Moreira, the person.
 
+![](umdevux.gif)
+
 ```sh
 npm install umdevux
 ```
